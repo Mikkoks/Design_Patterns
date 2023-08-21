@@ -1,0 +1,13 @@
+Factory patterns
+
+
+University app needs to create study plans for different programs.
+Program for IT -student is 1. introductory, 2. front-end dev and 3. final thesis
+Program for Business student is 1. introductory, 2. online-marketing, 3. invoicing and 4. final thesis
+
+Create objects to represent the programs.
+
+Client app can then use the programs to perform tasks:
+
+itCourse.listIntroductoryCourses();  //Console.WriteLine("listing all IT-program introductory courses.")
+businessCourse.listOnlineMarketingCourses();  //Console.WriteLine("listing all Business-program online marketing courses.")
