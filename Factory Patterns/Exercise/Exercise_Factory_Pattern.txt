@@ -9,5 +9,5 @@ Create objects to represent the programs.
 
 Client app can then use the programs to perform tasks:
 
-itCourse.listIntroductoryCourses();  //Console.WriteLine("listing all IT-program introductory courses.")
-businessCourse.listOnlineMarketingCourses();  //Console.WriteLine("listing all Business-program online marketing courses.")
+itProgram.listIntroductoryCourses();  //Console.WriteLine("listing all IT-program introductory courses.")
+businessProgram.listOnlineMarketingCourses();  //Console.WriteLine("listing all Business-program online marketing courses.")
